@@ -8,7 +8,7 @@
 
 ## Education: 
 #### 1. [Institut Tekonologi Del](https://www.del.ac.id/) | [Informatics](https://www.del.ac.id/?page_id=1792) | Laguboti `2022`
-#### 2. [SMAS BUDI MULIA PEMATANGSIANTAR]https://smabudimulia-siantar.com/sma/public/index.php | MIPA | Pematangsiantar `2019-2022`
+#### 2. [SMAS BUDI MULIA PEMATANGSIANTAR](https://smabudimulia-siantar.com/sma/public/index.php) | MIPA | Pematangsiantar `2019-2022`
 
 ### Languages and Tools:
 
