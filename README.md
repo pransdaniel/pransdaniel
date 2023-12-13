@@ -3,7 +3,7 @@
 - 📖 I’m currently studyng at [IT DEL](https://www.del.ac.id/)
 - 💬 Ask me about anything
 - 👀 I’m interested in Programing and Data Science
-- 🌱 I’m currently learning Java and SQL
+- 🌱 I’m currently learning C, Java and SQL
 - 📫 How to reach me : pransdaniel04@gmail.com
 
 ## Education: 
