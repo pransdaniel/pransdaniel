@@ -3,7 +3,7 @@
 - 📖 I’m currently studying at [IT DEL](https://www.del.ac.id/)
 - 💬 Ask me about anything
 - 👀 I’m interested in Programing and Data Science
-- 🌱 I’m currently learning C, Java and SQL
+- 🌱 I’m currently learning PHP, Javascript and SQL
 - 📫 How to reach me : pransdaniel04@gmail.com
 
 ## Education: 
@@ -13,5 +13,6 @@
 ### Languages and Tools:
 
 <img align="left" alt="VisualStudioCode" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Laravel" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" style="padding-right:10px;" />
 <br />
 
